@@ -13,7 +13,7 @@
     'use strict';
     const target = '=w24-h24-c-k-nd';
     // Change the second size string if you like. / お好みでサイズ指定を変更してください
-    const replacement  = '=w40-h40-c-k-nd';
+    const replacement = '=w40-h40-c-k-nd';
     const upgrade = () => {
         document.querySelectorAll('img').forEach(img => {
             if (img.src && img.src.includes(target)) {
