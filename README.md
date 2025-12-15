@@ -9,7 +9,7 @@ This repository contains a collection of Tampermonkey user scripts for personal 
 
 MIT License
 
-Copyright (c) 2025 Suzuki Mochizuki
+Copyright (c) 2025 Susuki Mochiduki
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
